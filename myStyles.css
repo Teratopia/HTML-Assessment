@@ -1,0 +1,17 @@
+h1{
+  color: red;
+}
+.customclass{
+  font-size: 40px;
+}
+#firsth1{
+  color: #29c2d4;
+}
+#firstlist{
+  font-weight: bold;
+}
+#secondlist li:first-child{
+  color: blue;
+}
+
+/* Last field has highest precedence */
